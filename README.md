@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alpondith&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nazibalalam&show_icons=true)
